@@ -3,7 +3,7 @@
 - Tạo mới một project laravel;
 
 ```Dockerfile
-composer create-project laravel/laravel Laravel9_Image_Upload
+composer create-project laravel/laravel laravel9_image_upload
 ```
 
 ## 2. Create Controller
